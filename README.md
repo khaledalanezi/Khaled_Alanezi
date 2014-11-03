@@ -12,7 +12,7 @@ khaled.alanezi@colorado.edu
 ![profile photo](files/1w0xA1pPHomBUPdFoHzmyzeuhLnphjfuFj5HeY_0XwT0-photo-0.png)
 
 ## Website
-
+https://csel.cs.colorado.edu/~khal2466/
 
 # Current Funding
 Yes. Kuwait Cultural Office (KCO). Kuwait Government. Three years (+1 year extensions subject to student's progress evaluation from the KCO).

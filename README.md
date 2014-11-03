@@ -32,9 +32,9 @@ Dr. Shivakant Mishra
 
 | Milestone            | Completed         | Planned           |         
 | -------------------- | ----------------- | ----------------- |
-| Start                | {semester} {year} |                   |
-| Area Exam            | {semester} {year} | {semester} {year} |
-| Proposal Defense     | {semester} {year} | {semester} {year} |
+| Start                | {Fall} {2012} |                   |
+| Area Exam            | {Spring} {2013} | {semester} {year} |
+| Proposal Defense     | {semester} {year} | {Spring} {2015} |
 | Dissertation Defense | {semester} {year} | {semester} {year} |
 
 ## Courses
@@ -49,9 +49,9 @@ Dr. Shivakant Mishra
 | {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
 
 # Research
+My research area is context-aware mobile computing. Major challenges in this area are low accuracy and resource scarcity (energy and computation). My first project was focusing on low accuracy (see paper in Google scholar for details). Now I'm focusing on the second issue of resource scarcity.  In my current project, I'm building a middleware framework (Android) that can run on multiple mobile devices and allow them to collaborate on context monitoring tasks. The framework take into consideration factors learned about the devices during runtime and factors known about the task in hand to generate the best collaboration plan. My work is almost mature and I'm pushing for a new publication in the near future.
 
 ## Publications
-
 
 * Enhancing Context-Aware Applications Accuracy Through Position Discovery, 10th International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services, 2013
 

@@ -49,7 +49,7 @@ Dr. Shivakant Mishra
 | {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
 
 # Research
-My research area is context-aware mobile computing. Major challenges in this area are low accuracy and resource scarcity (energy and computation). My first project was focusing on low accuracy (see paper in Google scholar for details). Now I'm focusing on the second issue of resource scarcity.  In my current project, I'm building a middleware framework (Android) that can run on multiple mobile devices and allow them to collaborate on context monitoring tasks. The framework take into consideration factors learned about the devices during runtime and factors known about the task in hand to generate the best collaboration plan. My work is almost mature and I'm pushing for a new publication in the near future.
+My research area is context-aware mobile computing. Major challenges in this area are low accuracy and resource scarcity (energy and computation). My first project was focusing on low accuracy (see paper in Google scholar for details). Now I'm focusing on the second issue of resource scarcity.  In my current project, I'm building a middleware framework (Android) that can run on multiple mobile devices and allow them to collaborate on context monitoring tasks. The framework takes into consideration factors learned about the devices during runtime and factors known about the task in hand to generate the best collaboration plan. My work is almost mature and I'm pushing for a new publication in the near future.
 
 ## Publications
 
@@ -81,7 +81,7 @@ My research area is context-aware mobile computing. Major challenges in this are
 
 
 ## Inspected smartphone carry positions in my research of automatic position discovery using inertial sensors of smartphones
-
+## I also work on the SocialDining project, which is another project in the lab related to mobile computing.
 
 ![highlight](files/1w0xA1pPHomBUPdFoHzmyzeuhLnphjfuFj5HeY_0XwT0-highlight0-0.png)
 
